@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.d1b05096.chunk.css",
-    "main.js": "/aboutme/static/js/main.cdac8c07.chunk.js",
-    "main.js.map": "/aboutme/static/js/main.cdac8c07.chunk.js.map",
+    "main.css": "/aboutme/static/css/main.3970e210.chunk.css",
+    "main.js": "/aboutme/static/js/main.e1f6189d.chunk.js",
+    "main.js.map": "/aboutme/static/js/main.e1f6189d.chunk.js.map",
     "runtime-main.js": "/aboutme/static/js/runtime-main.9de90b67.js",
     "runtime-main.js.map": "/aboutme/static/js/runtime-main.9de90b67.js.map",
-    "static/js/2.0ec32d5c.chunk.js": "/aboutme/static/js/2.0ec32d5c.chunk.js",
-    "static/js/2.0ec32d5c.chunk.js.map": "/aboutme/static/js/2.0ec32d5c.chunk.js.map",
+    "static/js/2.c08201df.chunk.js": "/aboutme/static/js/2.c08201df.chunk.js",
+    "static/js/2.c08201df.chunk.js.map": "/aboutme/static/js/2.c08201df.chunk.js.map",
     "index.html": "/aboutme/index.html",
-    "precache-manifest.6988230d7d42847dbaf06fc5429274f6.js": "/aboutme/precache-manifest.6988230d7d42847dbaf06fc5429274f6.js",
+    "precache-manifest.204efe6c1453fd7269e1a2be378c197f.js": "/aboutme/precache-manifest.204efe6c1453fd7269e1a2be378c197f.js",
     "service-worker.js": "/aboutme/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/aboutme/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.0ec32d5c.chunk.js.LICENSE": "/aboutme/static/js/2.0ec32d5c.chunk.js.LICENSE",
-    "static/media/logo.svg": "/aboutme/static/media/logo.5d5d9eef.svg"
+    "static/css/main.3970e210.chunk.css.map": "/aboutme/static/css/main.3970e210.chunk.css.map",
+    "static/js/2.c08201df.chunk.js.LICENSE": "/aboutme/static/js/2.c08201df.chunk.js.LICENSE",
+    "static/media/a.jpg": "/aboutme/static/media/a.f4a19a30.jpg",
+    "static/media/profileDetails.css": "/aboutme/static/media/b.1b26138b.jpg",
+    "static/media/chai-logo.png": "/aboutme/static/media/chai-logo.3e3689e0.png",
+    "static/media/skillSet.css": "/aboutme/static/media/field.5ae26378.png",
+    "static/media/docker_logo.png": "/aboutme/static/media/docker_logo.a6641ecc.png",
+    "static/media/git-logo.png": "/aboutme/static/media/git-logo.1fbd2ccd.png",
+    "static/media/mocha-logo.png": "/aboutme/static/media/mocha-logo.c503b6cc.png",
+    "static/media/nodejs-logo.png": "/aboutme/static/media/nodejs-logo.cef7fa69.png",
+    "static/media/react-logo.png": "/aboutme/static/media/react-logo.5e56e641.png",
+    "static/media/redux-logo.png": "/aboutme/static/media/redux-logo.6e0c2c77.png",
+    "static/media/rest-logo.png": "/aboutme/static/media/rest-logo.e229ad83.png",
+    "static/media/sql-logo.png": "/aboutme/static/media/sql-logo.3f92da61.png",
+    "static/media/williams.png": "/aboutme/static/media/williams.9054dbd7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9de90b67.js",
-    "static/js/2.0ec32d5c.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cdac8c07.chunk.js"
+    "static/js/2.c08201df.chunk.js",
+    "static/css/main.3970e210.chunk.css",
+    "static/js/main.e1f6189d.chunk.js"
   ]
 }
