@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d550243526323ecf25de3be4ada67902",
+    "revision": "9a5f316f085b6a434a47ab044b0df01e",
     "url": "/aboutme/index.html"
   },
   {
-    "revision": "eb558af2bf1721c1af17",
-    "url": "/aboutme/static/css/main.f13bffea.chunk.css"
+    "revision": "50ee465e77a170425845",
+    "url": "/aboutme/static/css/main.f2909f71.chunk.css"
   },
   {
-    "revision": "cf3aad19950c72388cb4",
-    "url": "/aboutme/static/js/2.c08201df.chunk.js"
+    "revision": "d29292576002cb062e0c",
+    "url": "/aboutme/static/js/2.4ce74b13.chunk.js"
   },
   {
     "revision": "a7020d2a8f4a374bf1bdac0fd36fbe93",
-    "url": "/aboutme/static/js/2.c08201df.chunk.js.LICENSE"
+    "url": "/aboutme/static/js/2.4ce74b13.chunk.js.LICENSE"
   },
   {
-    "revision": "eb558af2bf1721c1af17",
-    "url": "/aboutme/static/js/main.b3850355.chunk.js"
+    "revision": "50ee465e77a170425845",
+    "url": "/aboutme/static/js/main.3bef5549.chunk.js"
   },
   {
     "revision": "a8038e911c5d008c9678",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e3689e0950540c32ae2b891ead0f520",
     "url": "/aboutme/static/media/chai-logo.3e3689e0.png"
+  },
+  {
+    "revision": "84d8d62a2d4a67c5a0ff918bbbc7bbaa",
+    "url": "/aboutme/static/media/csms.84d8d62a.png"
   },
   {
     "revision": "538e470ecb802a78c7b362db6f3a9c85",
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aboutme/static/media/mocha-logo.c503b6cc.png"
   },
   {
+    "revision": "5604696c56c331b80bb5e04c3170db28",
+    "url": "/aboutme/static/media/mojecmeters.5604696c.png"
+  },
+  {
     "revision": "cef7fa69e4a281407a10db1a2402795f",
     "url": "/aboutme/static/media/nodejs-logo.cef7fa69.png"
   },
@@ -74,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f92da6131f8503a83991516fd81736f",
     "url": "/aboutme/static/media/sql-logo.3f92da61.png"
+  },
+  {
+    "revision": "bd084ccb4ed0fc7267888405c1bf5b12",
+    "url": "/aboutme/static/media/stockings.bd084ccb.png"
   },
   {
     "revision": "9054dbd746474a9ce7b660d9e8c7113b",
