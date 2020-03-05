@@ -1,34 +1,33 @@
 {
   "files": {
     "main.css": "/aboutme/static/css/main.806daf2b.chunk.css",
-    "main.js": "/aboutme/static/js/main.d242cce5.chunk.js",
-    "main.js.map": "/aboutme/static/js/main.d242cce5.chunk.js.map",
+    "main.js": "/aboutme/static/js/main.96d7b8e8.chunk.js",
+    "main.js.map": "/aboutme/static/js/main.96d7b8e8.chunk.js.map",
     "runtime-main.js": "/aboutme/static/js/runtime-main.9de90b67.js",
     "runtime-main.js.map": "/aboutme/static/js/runtime-main.9de90b67.js.map",
-    "static/js/2.b4665d2d.chunk.js": "/aboutme/static/js/2.b4665d2d.chunk.js",
-    "static/js/2.b4665d2d.chunk.js.map": "/aboutme/static/js/2.b4665d2d.chunk.js.map",
+    "static/js/2.72fe3dde.chunk.js": "/aboutme/static/js/2.72fe3dde.chunk.js",
+    "static/js/2.72fe3dde.chunk.js.map": "/aboutme/static/js/2.72fe3dde.chunk.js.map",
     "index.html": "/aboutme/index.html",
-    "precache-manifest.1f65f746357e1346fe4cd46be980ade6.js": "/aboutme/precache-manifest.1f65f746357e1346fe4cd46be980ade6.js",
+    "precache-manifest.69378f7a8508a37d2b812c017982ef66.js": "/aboutme/precache-manifest.69378f7a8508a37d2b812c017982ef66.js",
     "service-worker.js": "/aboutme/service-worker.js",
     "static/css/main.806daf2b.chunk.css.map": "/aboutme/static/css/main.806daf2b.chunk.css.map",
-    "static/js/2.b4665d2d.chunk.js.LICENSE": "/aboutme/static/js/2.b4665d2d.chunk.js.LICENSE",
-    "static/media/chai-logo.png": "/aboutme/static/media/chai-logo.3e3689e0.png",
-    "static/media/csms.png": "/aboutme/static/media/csms.84d8d62a.png",
+    "static/js/2.72fe3dde.chunk.js.LICENSE": "/aboutme/static/js/2.72fe3dde.chunk.js.LICENSE",
+    "static/media/aws.png": "/aboutme/static/media/aws.f7cec615.png",
+    "static/media/csms.png": "/aboutme/static/media/csms.0d8c3cbd.png",
     "static/media/docker_logo.png": "/aboutme/static/media/docker_logo.a6641ecc.png",
-    "static/media/git-logo.png": "/aboutme/static/media/git-logo.1fbd2ccd.png",
     "static/media/mocha-logo.png": "/aboutme/static/media/mocha-logo.c503b6cc.png",
-    "static/media/mojecmeters.png": "/aboutme/static/media/mojecmeters.5604696c.png",
+    "static/media/mojecmeters.png": "/aboutme/static/media/mojecmeters.dac9fdfc.png",
     "static/media/nodejs-logo.png": "/aboutme/static/media/nodejs-logo.cef7fa69.png",
     "static/media/react-logo.png": "/aboutme/static/media/react-logo.5e56e641.png",
     "static/media/redux-logo.png": "/aboutme/static/media/redux-logo.6e0c2c77.png",
     "static/media/rest-logo.png": "/aboutme/static/media/rest-logo.e229ad83.png",
     "static/media/sql-logo.png": "/aboutme/static/media/sql-logo.3f92da61.png",
-    "static/media/stockings.png": "/aboutme/static/media/stockings.bd084ccb.png"
+    "static/media/stockings.png": "/aboutme/static/media/stockings.5d10831b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9de90b67.js",
-    "static/js/2.b4665d2d.chunk.js",
+    "static/js/2.72fe3dde.chunk.js",
     "static/css/main.806daf2b.chunk.css",
-    "static/js/main.d242cce5.chunk.js"
+    "static/js/main.96d7b8e8.chunk.js"
   ]
 }

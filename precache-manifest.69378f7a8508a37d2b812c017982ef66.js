@@ -1,51 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3ca7315b4ddc2af409b454370ab8a90",
+    "revision": "eeb8a65ae2ab74251498580b4d3e7704",
     "url": "/aboutme/index.html"
   },
   {
-    "revision": "5f0b9b961cb5b866b941",
+    "revision": "1f268033235b1c6aa48c",
     "url": "/aboutme/static/css/main.806daf2b.chunk.css"
   },
   {
-    "revision": "052cd5375b9fc05f5784",
-    "url": "/aboutme/static/js/2.b4665d2d.chunk.js"
+    "revision": "06a7ec22d107a941c5e0",
+    "url": "/aboutme/static/js/2.72fe3dde.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/aboutme/static/js/2.b4665d2d.chunk.js.LICENSE"
+    "url": "/aboutme/static/js/2.72fe3dde.chunk.js.LICENSE"
   },
   {
-    "revision": "5f0b9b961cb5b866b941",
-    "url": "/aboutme/static/js/main.d242cce5.chunk.js"
+    "revision": "1f268033235b1c6aa48c",
+    "url": "/aboutme/static/js/main.96d7b8e8.chunk.js"
   },
   {
     "revision": "a8038e911c5d008c9678",
     "url": "/aboutme/static/js/runtime-main.9de90b67.js"
   },
   {
-    "revision": "3e3689e0950540c32ae2b891ead0f520",
-    "url": "/aboutme/static/media/chai-logo.3e3689e0.png"
+    "revision": "f7cec615ec42b2553380c41ca4089d0c",
+    "url": "/aboutme/static/media/aws.f7cec615.png"
   },
   {
-    "revision": "84d8d62a2d4a67c5a0ff918bbbc7bbaa",
-    "url": "/aboutme/static/media/csms.84d8d62a.png"
+    "revision": "0d8c3cbd02b583e47126a910e0cd673d",
+    "url": "/aboutme/static/media/csms.0d8c3cbd.png"
   },
   {
     "revision": "a6641eccf09ddb150dadf0b6019905a7",
     "url": "/aboutme/static/media/docker_logo.a6641ecc.png"
   },
   {
-    "revision": "1fbd2ccdd3798806eb514df01f02f2a1",
-    "url": "/aboutme/static/media/git-logo.1fbd2ccd.png"
-  },
-  {
     "revision": "c503b6ccf5af545fcd7f465d679460b1",
     "url": "/aboutme/static/media/mocha-logo.c503b6cc.png"
   },
   {
-    "revision": "5604696c56c331b80bb5e04c3170db28",
-    "url": "/aboutme/static/media/mojecmeters.5604696c.png"
+    "revision": "dac9fdfc00a89856b3f151622c319eeb",
+    "url": "/aboutme/static/media/mojecmeters.dac9fdfc.png"
   },
   {
     "revision": "cef7fa69e4a281407a10db1a2402795f",
@@ -68,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aboutme/static/media/sql-logo.3f92da61.png"
   },
   {
-    "revision": "bd084ccb4ed0fc7267888405c1bf5b12",
-    "url": "/aboutme/static/media/stockings.bd084ccb.png"
+    "revision": "5d10831baaf8a05bfb1f0bd4c82026de",
+    "url": "/aboutme/static/media/stockings.5d10831b.png"
   }
 ]);
