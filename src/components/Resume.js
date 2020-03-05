@@ -1,5 +1,4 @@
 import React from 'react';
-import '../css/main.css'
 import mojecmeters from '../img/projects/mojecmeters.png';
 import csms from '../img/projects/csms.png';
 import stockings from '../img/projects/stockings.png';
